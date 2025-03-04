@@ -1,4 +1,4 @@
-# Pizza Sales Dashboard
+# Pizza Sales Dashboard 🍕📊
 This project is a data visualization dashboard for analyzing pizza sales. 
 It provides insights into total quantity sold, revenue generated, sales trends, and preferences by pizza type, category, size, and time period.
 
